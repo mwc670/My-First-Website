@@ -1,0 +1,40 @@
+/***************************TAG STYLES**********************************/
+
+body {
+    background-color: #ECFAFB;
+}
+
+hr {
+    border-color: rgb(226, 224, 224);
+    border-style: dotted none none none;
+    border-width: 4px;
+    width: 40px;
+}
+h1 {
+    color: #4AA6B5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    color: #81CBC8;
+    font-family: Garamond, 'Times New Roman', Times, serif;
+}
+h3 {
+    color: #D6C481;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    color: rgb(145, 117, 81);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table {
+    color: rgb(145, 117, 81);
+    font-family: sans-serif;
+}
+
+/***************************CLASS STYLES**********************************/
+
+.header{
+    background-color: aliceblue;
+    width: 100%;
+ 
+        }
